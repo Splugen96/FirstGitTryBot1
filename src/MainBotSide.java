@@ -6,7 +6,9 @@ public class MainBotSide
     }
 
     public void done()
-            
-    {}
+
+    {
+        System.out.print("FIRST CONTENT");
+    }
 
 }
