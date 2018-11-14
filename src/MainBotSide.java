@@ -10,6 +10,7 @@ public class MainBotSide
     {
         System.out.print("FIRST CONTENT");
         System.out.print("BUT THIS IS BETTERE");
+        System.out.print("Now its better");
     }
 
 }
